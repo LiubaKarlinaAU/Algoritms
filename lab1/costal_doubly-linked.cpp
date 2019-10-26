@@ -69,7 +69,7 @@ void color_dfs(int v, int c) {
     }
 }
 
-#define NAME  //  "/home/liuba/second_year_itmo/algorithms/lads/lab1/bicone/"
+#define NAME  
 
 int main() {
     ifstream fin(NAME"bicone.in");
